@@ -9,7 +9,7 @@
 
 ------------
 Установка зависимостей:
-> pip install requerements
+> pip install requirements
 
 Запуск:
 >python manage.py migrate
